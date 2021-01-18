@@ -1,6 +1,6 @@
 # No-show Medical Appoinment Reseach
 #### By Lam Nguyen
-#### Instituion: Adelphi University
+#### Institution: Adelphi University
 
 ## Introduction
 - “Missed appointments cost the U.S. healthcare system $150B each year”, according to Jamie Gier, Chief Marketing Officer at SCI solution. 
