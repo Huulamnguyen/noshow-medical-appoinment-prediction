@@ -36,3 +36,10 @@ Additionally, the analysis of surveyed studies followed a stepwise approach that
 - The fourth research article is “The Effectiveness of Outpatient Appointment Reminder Systems in Reducing No-Show Rates”, its method they surveyed patients who arrived in at the clinic. 
 - The next article is “Predicting No-Shows in Radiology Using Regression Modeling of Data Available in the Electronic Medical Record”. The purpose of this research to test whether data elements available in the electronic medical record (EMR) can be effectively leveraged to predict failure to attend a scheduled radiology examination. 
 They used descriptive statistics and logistic regression models to test whether these data elements could predict failure to attend a scheduled radiology examination. 
+### Dataset Description
+The dataset for the capstone project is obtained from Kaggle.com, which is a healthcare provider dataset from the state in Brazil. Kaggle.com is known to hold data science project competitions. ![image](https://user-images.githubusercontent.com/63218884/113040233-93f60e00-9166-11eb-88c4-c15de6d1c6a5.png)
+The dataset is on Moodle. In this dataset, there are 72,607 cases (patients) and 16 variables in total (See Table 1). Two of these 15 variables are the ID (patient and appointment ID) variable while one of them is the dependent (outcome) variable (Show up).
+Table 1. Dataset Description
+![image](https://user-images.githubusercontent.com/63218884/113040264-9bb5b280-9166-11eb-834c-4ece505a93ed.png)
+
+
