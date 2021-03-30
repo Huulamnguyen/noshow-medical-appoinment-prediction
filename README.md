@@ -56,3 +56,13 @@ Handicap | Status of being handicap |
 Hypertension | Status of having high blood pressure |
 Diabetes | Status of being diabetic | 
 Time between appointments | Number of days between two consecutive scheduled appointments |
+
+### Research Questions:
+1.	Can we predict the no-show statuses using data analytical techniques?
+2.	What are the important features in order to predict the no-show status?
+3.	What is the importance of the features?
+4.	How do the different sampling techniques affect the prediction of no-show statuses?
+5.	How do the different feature selection methods affect the prediction of no-show statuses?
+6.	How does the prediction performance for the no-show statuses change for more complex analytical models?
+7.	How does the presence of outliers change the prediction performance for the no-show statuses?
+
