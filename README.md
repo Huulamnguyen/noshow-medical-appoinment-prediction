@@ -42,9 +42,7 @@ They used descriptive statistics and logistic regression models to test whether 
 Table 1. Dataset Description
 
 Variables | Definition | 
---- | --- |
 Age | Patient age | 
---- | --- |
 Gender | Patient sex | 
 --- | --- |
 Seconds | 301 | 
