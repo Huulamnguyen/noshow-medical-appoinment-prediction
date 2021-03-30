@@ -68,3 +68,6 @@ Time between appointments | Number of days between two consecutive scheduled app
 
 ### Method:
 This report applies CRISP-DM, which stands for CRoss-Industry Standard Process for Data Mining. For more inforamtion, please view **Capstone Report** file
+#### Step 1: Business Understanding
+No-show in medical appointment has  significant impact on our personal lives as well as costly in both time and money. For instance, the total cost of missed healthcare appointment in the United States every year is $150 billion and individual physicians an average of $200 per unused time slot. whether or not patients show up, healthcare organizations and medical practices still have to pay their staffs and cover expenses like rent and the cost of equipment.
+
