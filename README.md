@@ -75,6 +75,7 @@ No-show in medical appointment has  significant impact on our personal lives as 
 - In this dataset, there are 72,607 cases (patients) and 16 variables in total. Two of these 15 variables are the ID (patient and appointment ID) variable while one of them is the dependent (outcome) variable (Show up). 
 - Female is 68% and Male is 32%
 ![female vs male](https://user-images.githubusercontent.com/63218884/113044659-ea198000-916b-11eb-989d-17a3877a989e.png)
+
 - Percentage of persons that do not miss appointments: 79.06% and percentage of persons that miss appointments: 20.94%
 ![image](https://user-images.githubusercontent.com/63218884/113044883-2816a400-916c-11eb-9865-22a5b550c5ab.png)
 
