@@ -82,11 +82,11 @@ No-show in medical appointment has  significant impact on our personal lives as 
 ![percentage of no-show vs show](https://user-images.githubusercontent.com/63218884/113044883-2816a400-916c-11eb-9865-22a5b550c5ab.png)
 
 - Age: 
-    Child (age < 12) : 19.5%
-    Teenager (12 <= age < 18): 5%
-    Young Adult (18 <= age < 25): 6%
-    Adult (25 <= age< 60): 47%
-    Senior( age >= 60) : 22.5%
+    - Child (age < 12) : 19.5%
+    - Teenager (12 <= age < 18): 5%
+    - Young Adult (18 <= age < 25): 6%
+    - Adult (25 <= age< 60): 47%
+    - Senior( age >= 60) : 22.5%
     
 ![Age](https://user-images.githubusercontent.com/63218884/113067090-b6e5e980-9189-11eb-925c-7bddf6059bcd.png)
 
