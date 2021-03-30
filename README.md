@@ -45,27 +45,14 @@ Variables | Definition |
 --- | --- |
 Age | Patient age | 
 Gender | Patient sex | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
---- | --- |
-Seconds | 301 | 
-
-
+Month | Month of the appointment |
+Appointment day | Day of the appointment | 
+Lead time | Waiting time for the appointment in minute |
+Calling time | The hour of calling to schedule an appointment | 
+Appointment reminder | Status of receiving reminder message or call |
+Alcoholism | Status of being an alcoholic | 
+Financial aid | Status of having a financial support |
+Handicap | Status of being handicap | 
+Hypertension | Status of having high blood pressure |
+Diabetes | Status of being diabetic | 
+Time between appointments | Number of days between two consecutive scheduled appointments |
