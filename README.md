@@ -43,6 +43,30 @@ Table 1. Dataset Description
 
 Variables | Definition | 
 --- | --- |
+Age | Patient age | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
+Seconds | 301 | 
+--- | --- |
 Seconds | 301 | 
 
 
