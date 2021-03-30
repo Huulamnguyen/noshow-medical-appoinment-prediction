@@ -45,7 +45,7 @@ Variables | Definition |
 --- | --- |
 Age | Patient age | 
 --- | --- |
-Seconds | 301 | 
+Gender | Patient sex | 
 --- | --- |
 Seconds | 301 | 
 --- | --- |
