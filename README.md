@@ -39,7 +39,7 @@ They used descriptive statistics and logistic regression models to test whether 
 ### Dataset Description
 - The dataset for the capstone project is obtained from Kaggle.com, which is a healthcare provider dataset from the state in Brazil. Kaggle.com is known to hold data science project competitions.
 - The dataset is on Moodle. In this dataset, there are 72,607 cases (patients) and 16 variables in total (See Table 1). Two of these 15 variables are the ID (patient and appointment ID) variable while one of them is the dependent (outcome) variable (Show up).
-Table 1. Dataset Description
+- Table 1. Dataset Description
 
 Variables | Definition | 
 --- | --- |
