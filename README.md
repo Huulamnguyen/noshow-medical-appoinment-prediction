@@ -67,4 +67,4 @@ Time between appointments | Number of days between two consecutive scheduled app
 7.	How does the presence of outliers change the prediction performance for the no-show statuses?
 
 ### Method:
-This report applies CRISP-DM, which stands for CRoss-Industry Standard Process for Data Mining
+This report applies CRISP-DM, which stands for CRoss-Industry Standard Process for Data Mining. For more inforamtion, please view **Capstone Report** file
